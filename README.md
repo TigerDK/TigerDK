@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TigerDK
 - 👀 I’m interested in Games and Anime
 - 🌱 I’m currently learning Game design
-- 💞️ I’m looking to collaborate on School projekts
+- 💞️ I’m looking to collaborate on School projects
 - 📫 How to reach me, there are no way.
 
 <!---
