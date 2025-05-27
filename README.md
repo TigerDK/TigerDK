@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TigerDK
-- 👀 I’m interested in Games and Anime
-- 🌱 I’m currently learning Game design
-- 💞️ I’m looking to collaborate on School projects
-- 📫 How to reach me, there are no way.
+- 👀 I’m interested in Video Games, Anime, Game Design and Development.
+- 🌱 I’m currently learning as a Multimediedesigner.
 
 <!---
 TigerDK/TigerDK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
